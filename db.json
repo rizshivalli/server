@@ -20,9 +20,21 @@
   "profile": {
     "name": "typicode"
   },
-  "stories": {
-    "type": "horror",
-    "Title": "The NUN",
-    "id": 0
-  }
+  "stories": [
+    {
+      "type": "horror",
+      "Title": "The NUN",
+      "id": 0
+    },
+    {
+      "type": "sci-fi",
+      "Title": "The NUN",
+      "id": 1
+    },
+    {
+      "type": "horror",
+      "Title": "The Conjuring",
+      "id": 2
+    }
+  ]
 }
