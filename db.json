@@ -37,7 +37,7 @@
       "id": 2
     }
   ],
-  "PitStopDetails": [
+  "pitStopDetails": [
     {
       "id": "1",
       "name": "Pitstop 1",
