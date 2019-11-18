@@ -19,5 +19,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "stories": {
+    "type": "horror",
+    "Title": "The NUN",
+    "id": 0
   }
 }
