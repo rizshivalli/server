@@ -1,5 +1,5 @@
 {
-  "notifications": [
+  "mobile_notifications": [
     {
       "id": 0,
       "NotificationHeading": "sunt aut facere",
@@ -22,6 +22,32 @@
       "id": 3,
       "NotificationHeading": "eum et est",
       "NotificationMessage": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum",
+      "NotificationDate": "15/11/2019"
+    }
+  ],
+  "email_notifications": [
+    {
+      "id": 0,
+      "NotificationHeading": "nesciunt quas odio",
+      "NotificationMessage": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed",
+      "NotificationDate": "12/10/2019"
+    },
+    {
+      "id": 1,
+      "NotificationHeading": "eum magni eos",
+      "NotificationMessage": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia ",
+      "NotificationDate": "13/10/2019"
+    },
+    {
+      "id": 2,
+      "NotificationHeading": "magnam facilis",
+      "NotificationMessage": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+      "NotificationDate": "14/11/2019"
+    },
+    {
+      "id": 3,
+      "NotificationHeading": "dolorem dolore est",
+      "NotificationMessage": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus",
       "NotificationDate": "15/11/2019"
     }
   ],
