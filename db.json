@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "notifications": [
     {
       "id": 0,
       "NotificationHeading": "sunt aut facere",
@@ -45,5 +45,4 @@
       "id": 2
     }
   ]
- 
 }
