@@ -2,19 +2,27 @@
   "posts": [
     {
       "id": 0,
-      "Name": "hello"
+      "NotificationHeading": "sunt aut facere",
+      "NotificationMessage": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit ",
+      "NotificationDate": "12/10/2019"
     },
     {
       "id": 1,
-      "Name": "hello"
+      "NotificationHeading": "qui est esse",
+      "NotificationMessage": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis ",
+      "NotificationDate": "13/10/2019"
     },
     {
       "id": 2,
-      "Name": "hello"
+      "NotificationHeading": "ea molestias",
+      "NotificationMessage": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus",
+      "NotificationDate": "14/11/2019"
     },
     {
       "id": 3,
-      "Name": "hello"
+      "NotificationHeading": "eum et est",
+      "NotificationMessage": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum",
+      "NotificationDate": "15/11/2019"
     }
   ],
   "profile": {
@@ -36,105 +44,6 @@
       "Title": "The Conjuring",
       "id": 2
     }
-  ],
-  "pitStopDetails": [
-    {
-      "id": "1",
-      "name": "Pitstop 1",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 45,
-      "distByCar": 10,
-      "dist": 1.9,
-      "cubeCoord": {
-        "latitude": 51.528308,
-        "longitude": -0.1
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "2",
-      "name": "Pitstop 2",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 50,
-      "distByCar": 25,
-      "dist": 2,
-      "cubeCoord": null,
-      "vendCoord": {
-        "latitude": 51.527308,
-        "longitude": -0.1
-      }
-    },
-    {
-      "id": "3",
-      "name": "Pitstop 3",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 25,
-      "distByCar": 5,
-      "dist": 1,
-      "cubeCoord": {
-        "latitude": 51.527208,
-        "longitude": -0.15
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "4",
-      "name": "Pitstop 4",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 30,
-      "distByCar": 15,
-      "dist": 1.5,
-      "cubeCoord": null,
-      "vendCoord": {
-        "latitude": 51.526308,
-        "longitude": -0.1
-      }
-    },
-    {
-      "id": "5",
-      "name": "Pitstop 5",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 35,
-      "distByCar": 8,
-      "dist": 1.8,
-      "cubeCoord": {
-        "latitude": 51.525508,
-        "longitude": -0.13
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "6",
-      "name": "Pitstop 6",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 70,
-      "distByCar": 55,
-      "dist": 4,
-      "cubeCoord": null,
-      "vendCoord": {
-        "latitude": 51.524308,
-        "longitude": -0.1
-      }
-    },
-    {
-      "id": "7",
-      "name": "Pitstop 12",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 70,
-      "distByCar": 55,
-      "dist": 4,
-      "cubeCoord": {
-        "latitude": 51.521108,
-        "longitude": -0.11
-      },
-      "vendCoord": null
-    }
   ]
+ 
 }
