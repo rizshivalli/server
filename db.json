@@ -66,6 +66,39 @@
   "profile": {
     "name": "typicode"
   },
+  "NotificationSettings": [
+    {
+      "mobile_notifications": [
+        {
+          "id": 0,
+          "NotificationType": "Receive offers and discounts",
+          "enabled": false
+        },
+        {
+          "id": 1,
+          "NotificationType": "Receive updates to pitstops and products",
+          "enabled": true
+        },
+        {
+          "id": 2,
+          "NotificationType": "Receive locational based offers",
+          "enabled": false
+        }
+      ],
+      "email_notifications": [
+        {
+          "id": 0,
+          "NotificationType": "Receive your receipts",
+          "enabled": true
+        },
+        {
+          "id": 1,
+          "NotificationType": "Receive updates to pitstops and products",
+          "enabled": false
+        }
+      ]
+    }
+  ],
   "stories": [
     {
       "type": "horror",
