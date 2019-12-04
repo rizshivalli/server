@@ -99,21 +99,42 @@
       ]
     }
   ],
-  "stories": [
+  "donations": [
     {
-      "type": "horror",
-      "Title": "The NUN",
+      "img": "https://i.ibb.co/Twn33BL/cheerios.png",
+      "Heading": "horror",
+      "SubHeading": "The NUN",
       "id": 0
     },
     {
-      "type": "sci-fi",
-      "Title": "The NUN",
+      "img": "https://i.ibb.co/F7KQkMh/coke.png",
+      "Heading": "sci-fi",
+      "SubHeading": "The NUN",
       "id": 1
     },
     {
-      "type": "horror",
-      "Title": "The Conjuring",
+      "img": "https://i.ibb.co/VwSfmBs/oreo.png",
+      "Heading": "horror",
+      "SubHeading": "The Conjuring",
       "id": 2
+    },
+    {
+      "img": "https://i.ibb.co/qpdjPFx/home-sale.png",
+      "Heading": "horror",
+      "SubHeading": "The NUN",
+      "id": 3
+    },
+    {
+      "img": "https://i.ibb.co/FmN3x8k/home-less.png",
+      "Heading": "sci-fi",
+      "SubHeading": "The NUN",
+      "id": 4
+    },
+    {
+      "img": "https://i.ibb.co/VwSfmBs/oreo.png",
+      "Heading": "horror",
+      "SubHeading": "The Conjuring",
+      "id": 5
     }
   ]
 }
