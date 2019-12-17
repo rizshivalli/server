@@ -142,55 +142,5 @@
       "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
       "id": 5
     }
-  ],
-  "MyPurchases": [
-    {
-      "id": 1,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 10,
-      "costInPoints": 4
-    },
-    {
-      "id": 2,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 7,
-      "costInPoints": 2
-    },
-    {
-      "id": 3,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 6,
-      "costInPoints": 2
-    },
-    {
-      "id": 4,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 12,
-      "costInPoints": 6
-    },
-    {
-      "id": 5,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 10,
-      "costInPoints": 4
-    },
-    {
-      "id": 6,
-      "products": "",
-      "location": "",
-      "date": "",
-      "cost": 7,
-      "costInPoints": 2
-    }
   ]
 }
